@@ -1,0 +1,33 @@
+body {
+  background-image: url('https://r4.wallpaperflare.com/wallpaper/108/140/869/digital-digital-art-artwork-fantasy-art-drawing-hd-wallpaper-d8b62d28c0f06c48d03c114ec8f2b4aa.jpg');
+  background-size: cover;
+}
+
+.card {
+  margin-top: 25% !important;
+  margin: auto;
+  min-height: 50%;
+  border-radius: 0 !important;
+  width: 25rem !important;
+}
+
+.card-body {
+  padding: 2rem !important;
+  text-align: center;
+}
+
+.button {
+  width: 100%;
+  border-radius: 0 !important;
+  margin-bottom: 0.75rem;
+}
+
+.signup {
+  font-size: small;
+}
+
+input {
+  border-radius: 0 !important;
+  width: 100% !important;
+  margin-bottom: 0.75rem !important;
+}
